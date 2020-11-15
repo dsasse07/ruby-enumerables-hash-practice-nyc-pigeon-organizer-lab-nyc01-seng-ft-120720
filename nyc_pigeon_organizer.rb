@@ -4,7 +4,7 @@ def nyc_pigeon_organizer(data)
   
   pidgeon_names = []
   
- 
+  pidgeon_name = data.invert.keys[1][:male]
   
   binding.pry
 end
