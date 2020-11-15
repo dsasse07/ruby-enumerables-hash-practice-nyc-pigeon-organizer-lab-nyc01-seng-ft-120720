@@ -4,7 +4,7 @@ def nyc_pigeon_organizer(data)
   
   pidgeon_names = []
   
-  data.invert.keys[1].each_value {|value| pidgeon_names << value}
+ 
   
   binding.pry
 end
